@@ -14,4 +14,4 @@ Projeto desenvolvido para o desafio da DIO, utilizando conceitos básicos de ló
 - Estruturas condicionais
 
 ## Execução
-Basta rodar o arquivo `index.js` em um ambiente JavaScript (Node.js ou navegador).
+Basta rodar o arquivo `Código` em um ambiente JavaScript (Node.js ou navegador).
