@@ -13,5 +13,5 @@ Projeto desenvolvido para o desafio da DIO, utilizando conceitos básicos de ló
 - Laços de repetição
 - Estruturas condicionais
 
-## ▶️ Execução
+## Execução
 Basta rodar o arquivo `index.js` em um ambiente JavaScript (Node.js ou navegador).
